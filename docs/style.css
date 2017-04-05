@@ -5,3 +5,14 @@ html, body {
 .header {
   margin-top: 60px;
 }
+
+.jumbotron {
+  height: 520px;
+  background-color: transparent !important;
+}
+
+.jumbotron h2 {
+  padding-top: 160px;
+  padding-bottom: 20px;
+	font-size: 5rem;
+}
